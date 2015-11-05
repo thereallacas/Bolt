@@ -1,4 +1,4 @@
-package javachallenge_11_Bolt;
+package javachallenge_15_Bolt;
 
 public class Bolt {
 	public static Float vasarol(float penz, Termek termek){
